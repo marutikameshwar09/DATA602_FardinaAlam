@@ -1,0 +1,2 @@
+Q.Why are you interested in taking DATA602?
+Ans. I feel that this course will lay the foundation of data science and during this course I will learn many essential skills which will help me in achiving my goal of becoming a Data Scientist. I also expect to get a hands on experience on differnet concepts of data science.
